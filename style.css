@@ -160,7 +160,7 @@ img:hover {
 .about-section h2,
 .skills-section h2,
 .hobbies-section h2,
-.family-section,
+.family-section h2,
 .contact-section h2,
 .projects-section h2 {
     transition: color 0.3s ease, transform 0.3s ease;
