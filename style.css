@@ -145,6 +145,15 @@ img {
 img:hover {
     transform: scale(1.1);
 }
+
+.about-section a {
+    color: gray;
+    text-decoration: underline;
+}
+
+.about-section a :hover{
+    color: white;
+}
   
 .about-section h2,
 .skills-section h2,
